@@ -12,7 +12,7 @@ sooo much awesomes. whhhat!
 
 ## Person C:
 
-Person C should modify content here.
+giraffes r GR8T
 
 ## Person D:
 
