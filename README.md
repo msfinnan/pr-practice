@@ -12,11 +12,11 @@ Person B should modify content here.
 
 ## Person C:
 
-Person C should modify content here.
+giraffes r GR8T
 
 ## Person D:
 
-giraffes r GR8T
+
 
 ## Need inspiration?
 
